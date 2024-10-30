@@ -36,7 +36,7 @@ docker build -t laravel-app .
 docker run -d -p 8080:80 --name laravel-app laravel-app
 ```
 ### Example images : 
-![Directory Browser Example](images/sc1.png)
-![Directory Browser Example](images/sc2.png)
-![Directory Browser Example](images/sc3.png)
+![Directory Browser Example](sc1.png)
+![Directory Browser Example](sc2.png)
+![Directory Browser Example](sc3.png)
 
